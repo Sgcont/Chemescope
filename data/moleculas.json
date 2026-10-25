@@ -1,0 +1,16 @@
+[
+ {"nome": "Água", "formula": "H2O", "smiles": "O", "geometria": "Angular", "polaridade": "Polar"},
+ {"nome": "Dióxido de carbono", "formula": "CO2", "smiles": "O=C=O", "geometria": "Linear", "polaridade": "Apolar"},
+ {"nome": "Metano", "formula": "CH4", "smiles": "C", "geometria": "Tetraédrica", "polaridade": "Apolar"},
+ {"nome": "Amônia", "formula": "NH3", "smiles": "N", "geometria": "Piramidal trigonal", "polaridade": "Polar"},
+ {"nome": "Oxigênio molecular", "formula": "O2", "smiles": "O=O", "geometria": "Linear", "polaridade": "Apolar"},
+ {"nome": "Nitrogênio molecular", "formula": "N2", "smiles": "N#N", "geometria": "Linear", "polaridade": "Apolar"},
+ {"nome": "Cloreto de hidrogênio", "formula": "HCl", "smiles": "Cl", "geometria": "Linear", "polaridade": "Polar"},
+ {"nome": "Monóxido de carbono", "formula": "CO", "smiles": "[C-]#[O+]", "geometria": "Linear", "polaridade": "Polar"},
+ {"nome": "Etanol", "formula": "C2H6O", "smiles": "CCO"},
+ {"nome": "Metanol", "formula": "CH4O", "smiles": "CO"},
+ {"nome": "Ácido acético", "formula": "C2H4O2", "smiles": "CC(=O)O"},
+ {"nome": "Eteno", "formula": "C2H4", "smiles": "C=C"},
+ {"nome": "Ciclohexano", "formula": "C6H12", "smiles": "C1CCCCC1"},
+ {"nome": "Benzeno", "formula": "C6H6", "smiles": "c1ccccc1"}
+]
